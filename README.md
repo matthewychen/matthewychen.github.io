@@ -1,2 +1,2 @@
 # rishabh-clone.github.io
- clone of website
+ bare-bones plain HTML/CSS personal website
